@@ -1,4 +1,4 @@
-# ai-powered-faq-assistant-aws-bedrock
+# 🤖 AI-Powered FAQ Assistant (AWS Bedrock RAG)
 A production-style AI project demonstrating Retrieval-Augmented Generation (RAG) using Amazon Bedrock Knowledge Bases, S3, and vector embeddings.
 
 ## 🌐 Overview
